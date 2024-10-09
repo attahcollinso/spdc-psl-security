@@ -1,0 +1,26 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: "Roboto", system-ui;
+  }
+  
+  header {
+    background-color: darkorchid;
+    color: #fff;
+  }
+  
+  header div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+  }
+  
+  header div h1 {
+    text-align: center;
+  }
